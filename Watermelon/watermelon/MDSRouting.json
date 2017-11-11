@@ -1,0 +1,15 @@
+{
+    "application" :
+    {
+        "routes" :
+        {
+            "kyson"       :  "WMH5ViewController",
+            "index"         : "TableViewController",
+            "webview"         : "WMWebViewController"
+
+		},
+
+		"main" : "index"
+	},
+	
+}
